@@ -299,7 +299,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For questions or issues, please open an issue in the repository or contact the project maintainers at [your-email@example.com].
+
 
 ---
 
